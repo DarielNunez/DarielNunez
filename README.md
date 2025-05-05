@@ -9,3 +9,6 @@
 - Cybersecurity Tools (Metasploit, John the Ripper, Nmap, etc.)
 
 💡 I'm always learning more about system security, cloud security, and threat detection.
+
+📫 How to reach me:
+- Email: dariel8bo@gmail.com
